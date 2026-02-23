@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Eden（feat. Cordae、DJ Jazzy Jeff）",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-23T10:07:58.565613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eden (feat. Cordae, DJ Jazzy Jeff)",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_Eden_(feat._Cordae,_DJ_Jazzy_Jeff)_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eden (feat. Cordae, DJ Jazzy Jeff)",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/02_Eden_(feat._Cordae,_DJ_Jazzy_Jeff)_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eden (feat. Cordae, DJ Jazzy Jeff)",
+      "artist": "Gen Hoshino, Cordae, DJ Jazzy Jeff",
+      "has_synced": true,
+      "path": "select/03_Eden_(feat._Cordae,_DJ_Jazzy_Jeff)_Gen_Hoshino,_Cordae,_DJ_Jazzy_Jeff.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eden (feat. Cordae, DJ Jazzy Jeff)",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Eden_(feat._Cordae,_DJ_Jazzy_Jeff)_星野源.txt"
+    }
+  ]
+}
